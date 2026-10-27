@@ -1,0 +1,8 @@
+	import math
+	from turtle import *
+	
+	def hearta(G):
+		return 15 * math.sin(G)**3
+	def heartb(G):
+		retur 12 * math.cos(G)-5*\
+		math.cos(2*
